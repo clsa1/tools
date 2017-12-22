@@ -1,0 +1,26 @@
+# Tools
+
+I decided to improve my knowledge about the tools I work work with.
+
+I'll start with listing the tools I currently work with and continue with tools I want to get to know.
+
+## Currently Used Tools
+
+* Terraform
+* InSpec
+* Packer
+* AWS
+* Agile Methods especially writing user stories
+* Docker
+* Jenkins
+
+## Tools to Learn
+
+* Vault
+* SBT/Scala
+* Mesos
+* Kubernetes
+* Alternative editors vi, Visual Studio Code
+* Bear (alternative to Evernote)
+* AWS OpsWorks
+* Chef
